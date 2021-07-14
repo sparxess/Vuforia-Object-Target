@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-18T10:36:09Z" name="KamazTugRed" targetId="f021250d5d1449409b72175a0d3e7ba8" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-28T13:13:17Z" name="Dnische" targetId="83bf94dd505041ac8f76c6c1e181afd4" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-28T13:24:58Z" name="Coverage" targetId="e298877a6e994be3af7977a73fe76fcc" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-28T13:04:38Z" name="CorpusNull" targetId="8cada9fc79c743e5b6746d588b9d86c4" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-28T13:48:53Z" name="SenseHat" targetId="e98114f81dcd4530a418d71fb4b80dbb" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-03-28T12:56:36Z" name="CorpusAssEmpt" targetId="d2620e7bb6444c67b9ad973a8fd96e74" version="2.0" />
+  </TargetSet>
+</QCARInfo>

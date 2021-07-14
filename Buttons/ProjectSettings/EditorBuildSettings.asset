@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RaspberryPi.unity
+    guid: 2808e979757975f4bb7a5f029a4e7740
+  - enabled: 1
+    path: Assets/Scenes/Sense Hat.unity
+    guid: 1a7ea526a9a2ad0489a23b5f5a0c3b71
+  - enabled: 1
+    path: Assets/Scenes/Dno.unity
+    guid: 5dbe67d0b734ecf4392ba59c148bcb1b
+  - enabled: 1
+    path: Assets/Scenes/Korpus.unity
+    guid: 119207807fe56f14e8a0c499e26925cd
+  - enabled: 1
+    path: Assets/Scenes/Cap.unity
+    guid: 20550fe5f8e23ab4abb3761eee1d426e
+  - enabled: 1
+    path: Assets/Scenes/OS.unity
+    guid: 62e3132ef59794843baf318e9a943326
+  m_configObjects: {}
